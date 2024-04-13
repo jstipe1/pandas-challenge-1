@@ -19,3 +19,4 @@ There are four sections to this challenge
 [multiplying columns](https://stackoverflow.com/questions/70631281/multiplying-two-columns-in-pandas)
 [selecting_sub-sets](https://pandas.pydata.org/docs/dev/getting_started/intro_tutorials/03_subset_data.html)
 XPERT Learning Assistant - proper isin format
+[$Millions formating](https://saturncloud.io/blog/how-to-format-numbers-in-a-python-pandas-dataframe-as-currency-in-thousands-or-millions/#:~:text=To%20format%20numbers%20in%20millions,()%20function%20to%20each%20element.)
