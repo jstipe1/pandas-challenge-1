@@ -10,7 +10,7 @@ There are four sections to this challenge
 	
 	3) The third section is provided to verify that the performed equations yielded the desired outcomes.
 
- 4) The final section allows for summarizing the newly created colunms in a report friendly manaer and gives a short notes on insights derived from the data set.
+ 4) The final section allows for summarizing the newly created colunms in a report friendly manner and gives a short notes on insights derived from the data set.
 
 
 [tolist function](https://saturncloud.io/blog/how-to-get-a-list-from-a-pandas-dataframe-column/#:~:text=Best%20Practices-,Use%20the%20tolist()%20Method,of%20data%20into%20a%20list.
@@ -18,3 +18,4 @@ There are four sections to this challenge
 [Pandas_Reference_Doc](https://pandas.pydata.org/docs/reference/frame.html)
 [multiplying columns](https://stackoverflow.com/questions/70631281/multiplying-two-columns-in-pandas)
 [selecting_sub-sets](https://pandas.pydata.org/docs/dev/getting_started/intro_tutorials/03_subset_data.html)
+XPERT Learning Assistant - proper isin format
